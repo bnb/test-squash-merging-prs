@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bnb/test-squash-merging-prs#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
